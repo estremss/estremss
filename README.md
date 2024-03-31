@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, and C++ next year !**
 
-- 📫 How to reach me **estrems.evan@gmail.com**
+- 📫 How to reach me : **estrems.evan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
