@@ -1,7 +1,7 @@
 <h1 align="center">Nice to meet you ! 👋</h1>
 <h3 align="center">I'm Evan, a passionate IT Student from France.</h3>
 
-- 🔭 I’m currently working on [Carcassonne](https://github.com/estremss/Carcassonne)
+- 🔭 I’m currently studying at Université de Perpignan (3rd Bachelor's year)
 
 - 🌱 I’m currently learning **Flutter, and C++ next year !**
 
