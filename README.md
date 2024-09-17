@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at Université de Perpignan (3rd Bachelor's year)
 
-- 🌱 I’m currently learning **Flutter, and C++ next year !**
+- 🌱 I’m currently learning **C++ and Tailwind !**
 
 - 📫 How to reach me : **estrems.evan@gmail.com**
 
