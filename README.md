@@ -1,10 +1,7 @@
 <h1 align="center">Nice to meet you ! 👋</h1>
 <h3 align="center">I'm Evan, a passionate IT Student from France.</h3>
 
-- 🔭 I’m currently studying at Université de Perpignan (3rd Bachelor's year)
-
-- 🌱 I’m currently learning **C++ and Tailwind !**
-
+- 🔭 I’m currently studying at TELECOM Nancy
 - 📫 How to reach me : **estrems.evan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
